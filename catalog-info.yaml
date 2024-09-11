@@ -1,9 +1,1 @@
-apiVersion: backstage.io/v1alpha1
-metadata:
-  name: api
-  annotations:
-    github.com/project-slug: debsmita1/api
-spec:
-  type: other
-  lifecycle: unknown
-  owner: user:default/debsmita1
+---
