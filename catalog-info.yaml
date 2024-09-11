@@ -4,6 +4,8 @@ metadata:
   name: api
   annotations:
     github.com/project-slug: debsmita1/api
+  labels:
+    x: y
 spec:
   type: other
   lifecycle: unknown
